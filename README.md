@@ -29,10 +29,14 @@ It helps users save, retrieve, and manage passwords locally, reducing the risk o
 ## 📂 Project Structure
 
 Password_Manager/
-│
+
+
 ├── main.py # Core application logic
+
 ├── data.txt # Stores saved credentials
+
 ├── logo.png # Application logo
+
 ├── README.md # Project documentation---
 
 ## 🚀 How to Run the Project
